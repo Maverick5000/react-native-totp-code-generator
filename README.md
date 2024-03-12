@@ -1,4 +1,4 @@
-# React Native OTP Code Generator
+# React Native TOTP Code Generator
 
 A React Native module for generating One-Time Password (OTP) codes using the Time-Based One-Time Password (TOTP) algorithm.
 
